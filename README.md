@@ -14,10 +14,3 @@ https://robertsspaceindustries.com/orgs/UACOM
 Програми для встановлення і оновлення:
 
 - https://github.com/h0useRus/StarCitizen
-
-### Складний спосіб (без сторонніх програм)
-
-Для встановлення і оновлення завантаженого перекладу ви можете використовувати git і Python скріпти  
-Більш детально про цей метод встановлення ви можете дізнатись за посиланням:
-
-- https://github.com/defterai/StarCitizenModding
