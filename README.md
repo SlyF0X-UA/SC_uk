@@ -29,6 +29,6 @@ g_languageAudio=english
 > [!IMPORTANT]
 > Переконайтесь, що ваш файл `user.cfg` має кодування `UTF-8` (не, наприклад, `UTF-8 with BOM`).
 
-### Через сторонній додаток
+### Через додаток
 
-- [SC Tools](https://github.com/h0useRus/StarCitizen)
+- [SC Tools](https://github.com/defterai/StarCitizen)
